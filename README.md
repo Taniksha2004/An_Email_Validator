@@ -1,5 +1,2 @@
 # An_Email_Validator
-Developed an email validation tool with real-time error checking and feedback.
-Designed a responsive and user-friendly interface using HTML and CSS.
-Implemented client-side validation logic in JavaScript to ensure email format accuracy.
-Ensured cross-browser compatibility and optimized performance for quick load times.
+I developed an email validation tool that provides real-time error checking and user feedback, ensuring a seamless experience. The tool's interface is designed to be both responsive and user-friendly, using HTML and CSS for a clean, intuitive layout that adapts well across different devices. I implemented client-side validation using JavaScript to check the email format, providing immediate feedback to users if their input is invalid. This real-time error handling helps prevent submission errors and enhances user experience.
